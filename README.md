@@ -1,16 +1,16 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<body>
 
-<!--
-**Ratasanchezok/Ratasanchezok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi, i am Tomas Sanchez </h1>
 
-Here are some ideas to get you started:
+<h3> Hi, I'm Tomás Sánchez, an Argentinian Frontend Web Developer. With a great love and passion for creating web worlds, web pages and developing solutions to problems. I love to find creative, fun and above all effective solutions. In my free time I love to ride my bike, study some other subject of personal interest and hang out with my friends. </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>Hello, my name is Tomás Sánchez and I am a web developer. I develop web applications and mobile apps. I have experience in HTML5, CSS3, JavaScript, PHP and Bootstrap. I also have knowledge of SEO and digital marketing. </p>
+
+<p> I am currently looking for an opportunity to develop professionally as a web developer. If you are interested in hiring me or want to know more about me, don't hesitate to contact me. </p>
+
+
+</body>
+</html>
